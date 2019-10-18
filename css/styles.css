@@ -1,3 +1,7 @@
+body{
+  background-color: black;
+}
+
 h1{
   font-variant: small-caps;
   font-size: 50px;
@@ -6,11 +10,7 @@ h1{
   text-shadow: 2px 2px 10px red;
 }
 
-body{
-  background-color: black;
-}
-
-a{
+a {
   font-variant: small-caps;
   font-size: 20px;
   font-weight: bold;
@@ -19,7 +19,7 @@ a{
 }
 
 /*SIDEBAR*/
-.sidebar{
+.sidebar {
   position: fixed;
   margin-left: 30px;
   width: 10%;
@@ -27,8 +27,7 @@ a{
   float:left;
 }
 
-
-.sidebar p{
+.sidebar p {
   color: white;
   font-family: monospace;
   font-size: 20px;
