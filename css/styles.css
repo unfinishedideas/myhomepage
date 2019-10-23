@@ -20,10 +20,10 @@ h1{
 
 a {
   /* font-variant: small-caps; */
-  font-weight: bold;
+  color: #02d5ff;
   text-shadow: 2px 2px 5px black;
   font-size: 18px;
-  color: #02d5ff;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ a {
   color: white;
   font-size: 18px;
   font-variant: normal;
-  text-shadow: none; 
+  text-shadow: none;
   font-weight: normal;
   text-decoration: none;
 }
@@ -84,6 +84,15 @@ a {
   color: white;
 }
 
+#google{
+  background-color: #179c52;
+  border-color: green;
+}
+
+#youtube{
+  background-color: #c4302b;
+  border-color: red;
+}
 /* @media screen (max-height: 768px){
 
 } */
