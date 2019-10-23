@@ -19,6 +19,10 @@
 
 * None Yet
 
+## GitHub Pages Link
+
+* https://unfinishedideas.github.io/myhomepage/
+
 ## Support and contact
 
 If you have any issues viewing this site or any general questions about how to open please email me at
@@ -36,6 +40,7 @@ _for general styling_
 
 **jQuery**
 _To create animated buttons_
+
 **JavaScript**
 _To utilize jQuery_
 
