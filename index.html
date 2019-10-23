@@ -2,6 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <script src="js/jquery-3.4.1.js" charset="utf-8"></script>
+    <script src="js/scripts.js" charset="utf-8"></script>
     <link rel="stylesheet" href="css/styles.css" type="text/css">
     <title>Welcome to Internet</title>
   </head>
@@ -9,15 +11,46 @@
     <h1>Welcome to internet!</h1>
     <div class="sidebar">
       <p>Links</p>
-      <a href="http://www.youtube.com" target=_blank>Youtube</a><br>
-      <a href="http://www.reddit.com"target=_blank>Reddit</a><br>
-      <a href="http://www.twitch.com"target=_blank>Twitch</a><br>
-      <a href="http://www.google.com"target=_blank>Google</a><br>
-      <a href="https://thegamerspost.com/"target=_blank>The Gamer's Post</a><br>
-      <a href="https://github.com/"target=_blank>Github</a><br>
-      <a href="https://epicenter.epicodus.com/"target=_blank>Epicenter</a><br>
-      <a href="https://www.learnhowtoprogram.com/tracks/ruby-and-react"target=_blank>Learn how to Program</a><br>
-      <a href="http://www.facebook.com"target=_blank>Facebook (booo)</a><br>
+
+      <div class="container">
+        <button class="butts"><a href="http://www.google.com"target=_blank>Google</a><br></button>
+      </div>
+
+      <div class="container">
+        <button type="button" class="butts">Video</button><br>
+        <div class="linkDump">
+          <a href="http://www.youtube.com" target=_blank>Youtube</a><br>
+        </div>
+      </div>
+
+      <div class="container">
+        <button type="button" class="butts">Programming</button><br>
+        <div class="linkDump">
+          <a href="https://epicenter.epicodus.com/"target=_blank>Epicenter</a><br>
+          <a href="https://www.learnhowtoprogram.com/tracks/ruby-and-react"target=_blank>Learn how to Program</a><br>
+          <a href="https://github.com/"target=_blank>Github</a><br>
+        </div>
+      </div>
+
+      <div class="container">
+        <button type="button" class="butts">Gaming</button><br>
+        <div class="linkDump">
+          <a href="http://www.twitch.com"target=_blank>Twitch</a><br>
+          <a href="https://thegamerspost.com/"target=_blank>The Gamer's Post</a><br>
+        </div>
+      </div>
+
+      <div class="container">
+        <button type="button" class="butts">Social</button><br>
+        <div class="linkDump">
+          <a href="http://www.reddit.com"target=_blank>Reddit</a><br>
+          <a href="http://www.facebook.com"target=_blank>Facebook (booo)</a><br>
+        </div>
+      </div>
     </div>
   </body>
+  <footer>
+    <p class="tinyText">By Peter Wells</p>
+    <p class="tinyText">Last Updated 10-22-19</p>
+  </footer>
 </html>
