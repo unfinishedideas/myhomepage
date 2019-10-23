@@ -8,20 +8,20 @@
 
 ## Installation
 
-1. Clone/Download the Git Repository at: https://github.com/unfinishedideas/myhomepage
+1. Clone/Download the Git Repository at: https://github.com/unfinishedideas/welcometointernet
 2. Open index.html in your favorite browser
 
 ## Wishlist
 
-* Starfield Background using JavaScript. Something like this: https://slicker.me/javascript/starfield.htm
+* Old school starfield Background using JavaScript. Something like this: https://slicker.me/javascript/starfield.htm
 
 ## Known Bugs
 
-* None Yet
+* Not Mobile Friendly Yet
 
 ## GitHub Pages Link
 
-* https://unfinishedideas.github.io/myhomepage/
+* https://unfinishedideas.github.io/welcometointernet/
 
 ## Support and contact
 
