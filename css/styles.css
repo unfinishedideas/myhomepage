@@ -58,6 +58,7 @@ a {
   background-color: #324b57;
   border: 2px #6a9ea6 solid;
   color: white;
+  width: 100%;
   border-radius: 5px;
   padding: 10px 28px;
   text-align: center;
@@ -72,7 +73,7 @@ a {
   border: 2px #6a9ea6 solid;
   display: none;
   margin-top: 10px;
-  margin-left: 20px;
+  margin-right: 20px;
   padding: 10px;
   border-radius: 5px;
   /* border: 2px dashed blue; */
@@ -80,6 +81,7 @@ a {
 
 .tinyText {
   text-align: right;
+  margin-right: 15px;
   font-size: 9px;
   color: white;
 }
