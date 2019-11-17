@@ -1,5 +1,6 @@
 body{
   background-color: black;
+  color: white;
 }
 
 footer {
@@ -13,13 +14,11 @@ h1{
   font-variant: small-caps;
   text-decoration: underline;
   font-size: 50px;
-  color: white;
   text-align: center;
   text-shadow: 2px 2px 10px red;
 }
 
 a {
-  /* font-variant: small-caps; */
   color: #02d5ff;
   text-shadow: 2px 2px 5px black;
   font-size: 18px;
@@ -37,7 +36,6 @@ a {
 }
 
 .sidebar {
-  position: fixed;
   margin-left: 30px;
   width: 225px;
   height: 100%;
@@ -45,7 +43,6 @@ a {
 }
 
 .sidebar p {
-  color: white;
   font-family: monospace;
   font-size: 20px;
 }
@@ -83,7 +80,6 @@ a {
   text-align: right;
   margin-right: 15px;
   font-size: 9px;
-  color: white;
 }
 
 #google{
@@ -95,6 +91,7 @@ a {
   background-color: #c4302b;
   border-color: red;
 }
+
 /* @media screen (max-height: 768px){
 
 } */
